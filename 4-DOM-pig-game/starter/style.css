@@ -116,7 +116,7 @@ button {
     text-transform: uppercase;
     cursor: pointer;
     font-weight: 300;
-    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 5s, color 0.3s;
 }
 
 button:hover { font-weight: 600; }
